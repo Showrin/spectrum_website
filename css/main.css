@@ -197,6 +197,10 @@ body {
   #home-background .make-navbar-sticky #sign-in-button {
     font-size: 1vw; }
 
+#home-background .animated {
+  -webkit-animation-duration: .4s;
+  animation-duration: .4s; }
+
 #home-background #brand-icon-name-navigators {
   position: absolute;
   top: 0px;
