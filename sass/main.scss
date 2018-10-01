@@ -510,17 +510,20 @@ $shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 
 		.image-cropper {
 		    width: 30px;
-		    height: 30px;
-		    display: -webkit-box;
-		    display: -ms-flexbox;
-		    display: flex;
-		    overflow: hidden;
-		    border-radius: 50%;
+			height: 30px;
+			border-radius: 50%;
+			position: relative;
+			overflow: hidden;
 
 			img {
-			    margin: 0 -45%;
-			    width: auto;
-			    height: inherit;
+			   width: auto;
+				height: inherit;
+				position: absolute;
+				left: 50%;
+				top: 50%;
+				-webkit-transform: translate(-50%, -50%);
+				-ms-transform: translate(-50%, -50%);
+				transform: translate(-50%, -50%);
 			}
 		}
 

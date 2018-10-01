@@ -493,15 +493,18 @@ body {
   .topic-view-card .author-portion .image-cropper {
     width: 30px;
     height: 30px;
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    overflow: hidden;
-    border-radius: 50%; }
+    border-radius: 50%;
+    position: relative;
+    overflow: hidden; }
     .topic-view-card .author-portion .image-cropper img {
-      margin: 0 -45%;
       width: auto;
-      height: inherit; }
+      height: inherit;
+      position: absolute;
+      left: 50%;
+      top: 50%;
+      -webkit-transform: translate(-50%, -50%);
+      -ms-transform: translate(-50%, -50%);
+      transform: translate(-50%, -50%); }
   .topic-view-card .author-portion .author-name {
     font-size: .85vw;
     font-family: "calibri";

@@ -267,7 +267,7 @@
 
 					<span class="author-portion">
 						<span class="image-cropper">
-	    					<img src="images/mark.jpg" class="rounded" />
+	    					<img src="images/demo1.jpg" class="rounded" />
 						</span>
 
 						<span class="author-name">Showrin Barua</span>
