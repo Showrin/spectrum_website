@@ -55,13 +55,13 @@
 
 			<div class="col l8 m8 s8" id="navigation-area">
 				<ul>
-					<li class="navigators"><a href="">Spectrum Corner</a></li>
-					<li class="navigators"><a href="">Tutorials</a></li>
-					<li class="navigators"><a href="">Events</a></li>
-					<li class="navigators"><a href="">Blog</a></li>
+					<li class="navigators"><a href="spectrum_corner.php">Spectrum Corner</a></li>
+					<li class="navigators"><a href="tutorials.php">Tutorials</a></li>
+					<li class="navigators"><a href="events.php">Events</a></li>
+					<li class="navigators"><a href="blog.php">Blog</a></li>
 				</ul>
 
-				<a class="waves-effect waves-light btn" id="sign-in-button">Sign In</a>
+				<a class="waves-effect waves-light btn" id="sign-in-button" href="signup.php">Sign In</a>
 			</div>
 		</div>
 
