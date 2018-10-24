@@ -75,6 +75,70 @@
 	</div>
 
 
+	<!-- >>>>>>>>>>>>>>>> Blog Posts <<<<<<<<<<<<<<<<< -->
+	<center>
+		<h1 class="content-title">FOUNDERS</h1>
+	</center>
+
+	<div class="row">
+		<div class="col l8 m8 offset-l2 offset-m2">
+			<div class="row">
+				<div class="col l4 m4 founder">
+					<div class="image-holder-card">
+						<img src="images/working committee/founders/wasif.png" alt="">
+
+						<div class="founder-name">MD. Wasif Hasan</div> <br>
+
+						<div class="founder-designation">
+							<span>Co-Founder</span>
+						</div>
+
+						<div class="socials">
+							<i class="fab fa-facebook-square"></i>
+							<i class="fab fa-linkedin"></i>
+							<i class="fas fa-envelope"></i>
+						</div>
+					</div>
+				</div>
+				<div class="col l4 m4 founder">
+					<div class="image-holder-card">
+						<img src="images/working committee/founders/wasif.png" alt="">
+
+						<div class="founder-name">MD. Wasif Hasan</div> <br>
+
+						<div class="founder-designation">
+							<span>Co-Founder</span>
+						</div>
+
+						<div class="socials">
+							<i class="fab fa-facebook-square"></i>
+							<i class="fab fa-linkedin"></i>
+							<i class="fas fa-envelope"></i>
+						</div>
+					</div>
+				</div>
+				<div class="col l4 m4 founder">
+					<div class="image-holder-card">
+						<img src="images/working committee/founders/wasif.png" alt="">
+
+						<div class="founder-name">MD. Wasif Hasan</div> <br>
+
+						<div class="founder-designation">
+							<span>Co-Founder</span>
+						</div>
+
+						<div class="socials">
+							<i class="fab fa-facebook-square"></i>
+							<i class="fab fa-linkedin"></i>
+							<i class="fas fa-envelope"></i>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
 	<div class="row">
 		<div class="col l9 m9 no-padding left-margin-for-detail">
 			<div class="option-detail">
@@ -82,7 +146,23 @@
 				<ul class="collapsible">
 					<li>
 						<div class="collapsible-header"><i class="material-icons">filter_drama</i>First</div>
-						<div class="collapsible-body"><span>Lorem ipsum dolor sit amet.</span></div>
+						<div class="collapsible-body">
+							<div class="row">
+								<div class="col l6 m6 offset-l3 offset-m3">
+									<div class="row">
+										<div class="col l4 m4 founder">
+											<img src="images/working committee/founders/wasif.png" alt="">
+										</div>
+										<div class="col l4 m4 founder">
+											<img src="images/working committee/founders/fuad.jpg" alt="">
+										</div>
+										<div class="col l4 m4 founder">
+											<img src="images/working committee/founders/fuad.jpg" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
 					</li>
 					<li>
 						<div class="collapsible-header"><i class="material-icons">place</i>Second</div>
