@@ -943,3 +943,164 @@ $shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 	border-bottom: 10px solid green;
 	width: 85%;
 }
+
+.tabs .tab a {
+	color: rgba(84, 105, 135, 0.7);
+}
+
+.tabs .tab a:hover, .tabs .tab a.active, .tabs .tab a:focus, .tabs .tab a:focus.active {
+	color: rgba(84, 105, 135, 1);
+	background: rgba(84, 105, 135, 0.08);
+}
+
+.tabs .indicator {
+	background-color: rgba(84, 105, 135, 1);
+}
+
+.tabs-content {
+	height: 200vw !important; 
+}
+
+.tabs {
+	
+	.tab {
+		width: 20% !important;
+	}
+
+	.indicator {
+		width: 20% !important;
+	}
+}
+
+
+/* >>>>>>>>>>> Sign in or Sign up Form <<<<<<<<<<<<<<<<<<< */
+
+.total-body {
+	width: 100vw;
+	height: 100vh;
+	background-image: url('../images/signup/bg-img.jpg');
+	background-size: cover;
+	background-position: center center;
+	background-repeat: no-repeat;
+	position: absolute;
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+
+	.flex-body {
+		margin: auto;
+	}
+
+	img {
+		display: block;
+		width: 9vw;
+		position: relative;
+		z-index: 1;
+	}
+
+	.form-flex-div {	
+		display: -webkit-box;
+		display: -ms-flexbox;
+		display: flex;
+
+		.total-form-holder {
+			height: 36vw;
+			width: 36.5vw;
+			opacity: .8;
+			margin: auto;
+			background-color: #fff;
+			border-radius: 10px;
+			-webkit-box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -2px rgba(0, 0, 0, 0.12), 0 1px 5px 0 rgba(0, 0, 0, 0.2);
+			        box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -2px rgba(0, 0, 0, 0.12), 0 1px 5px 0 rgba(0, 0, 0, 0.2);
+			transition: box-shadow .25s, -webkit-box-shadow .25s;
+			margin-top: -5vw;
+
+			#sign-in-form, #sign-up-form {
+
+				.content-title {
+					margin-top: 3vw !important;
+					font-size: 2vw;
+				}
+
+				.forget-pass-text {
+					display: block;
+					margin-top: 2vw;
+
+					a {
+						color: #546987;
+					}
+				}
+			}
+
+			.tabs-content {
+			    height: inherit !important;
+
+				button {
+					height: unset !important;
+					border-radius: 2vw;
+					background-color: #546987;
+				}
+
+				.row {
+					margin-bottom: 10px;
+					width: 95%;
+				}
+
+				@media only screen and (min-width: 1200px) {
+
+						.row {
+						margin-bottom: 1.5vw;
+						margin-top: 1.5vw;
+					}
+				}
+
+				.content-title {
+					margin-bottom: 10px !important;
+				}
+
+				
+
+				.input-field input:focus {
+					border-bottom: 1px solid #546987;
+					-webkit-box-shadow: 0 1px 0 0 #546987;
+					        box-shadow: 0 1px 0 0 #546987;
+				}
+
+				.input-field input:focus + label {
+					color: #546987;
+				}
+			}
+			
+			.tabs {
+				border-top-right-radius: 10px;
+				border-top-left-radius: 10px;
+
+				.tab {
+					width: 50% !important;
+					border-top-right-radius: 10px;
+					border-top-left-radius: 10px;
+				}
+
+				.indicator {
+					width: 50% !important;
+				}
+
+				.tab a.active, .tab a:focus, .tab a:focus.active {
+
+					font-size: 16px;
+					font-weight: 800;
+					-webkit-transition: all 300ms;
+					-o-transition: all 300ms;
+					-webkit-transition: all 300ms ease;
+					-o-transition: all 300ms ease;
+					transition: all 300ms ease;
+				}
+			}
+		}
+
+		.total-form-holder:hover {
+			-webkit-box-shadow: 0px 0px 76px -5px rgba(0,0,0,0.34);
+			        box-shadow: 0px 0px 76px -5px rgba(0,0,0,0.34);
+		}
+	}
+}

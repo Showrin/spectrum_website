@@ -76,75 +76,247 @@
 
 
 	<!-- >>>>>>>>>>>>>>>> Blog Posts <<<<<<<<<<<<<<<<< -->
+	<div class="row">
+	    <div class="col s12 no-padding">
+	        <ul class="tabs">
+	            <li class="tab col s3"><a class="active" href="#committee-tab">Working Committee</a></li>
+	            <li class="tab col s3"><a href="#upcoming-event-tab">Upcoming Events</a></li>
+	            <li class="tab col s3"><a href="#past-event-tab">Past Events</a></li>
+	            <li class="tab col s3"><a href="#achievement-tab">Achievements</a></li>
+	            <li class="tab col s3"><a href="#alumni-tab">Spectrum Alumni</a></li>
+	        </ul>
+
+
+	        <div id="committee-tab" class="col s12">
+					
+				<center>
+					<h1 class="content-title">FOUNDERS</h1>
+				</center>
+
+				<div class="row">
+					<div class="col l8 m8 offset-l2 offset-m2">
+						<div class="row">
+							<div class="col l4 m4 founder">
+								<div class="image-holder-card">
+									<img src="images/working committee/founders/fuad.png" alt="">
+
+									<div class="founder-name">Fuad Hassan</div> <br>
+
+									<div class="founder-designation">
+										<span>Co-Founder</span>
+									</div>
+
+									<div class="socials">
+										<i class="fab fa-facebook-square"></i>
+										<i class="fab fa-linkedin"></i>
+										<i class="fas fa-envelope"></i>
+									</div>
+								</div>
+							</div>
+							<div class="col l4 m4 founder">
+								<div class="image-holder-card">
+									<img src="images/working committee/founders/arnab.png" alt="">
+
+									<div class="founder-name">Arnab Rahman</div> <br>
+
+									<div class="founder-designation">
+										<span>Co-Founder</span>
+									</div>
+
+									<div class="socials">
+										<i class="fab fa-facebook-square"></i>
+										<i class="fab fa-linkedin"></i>
+										<i class="fas fa-envelope"></i>
+									</div>
+								</div>
+							</div>
+							<div class="col l4 m4 founder">
+								<div class="image-holder-card">
+									<img src="images/working committee/founders/wasif.png" alt="">
+
+									<div class="founder-name">MD. Wasif Hasan</div> <br>
+
+									<div class="founder-designation">
+										<span>Co-Founder</span>
+									</div>
+
+									<div class="socials">
+										<i class="fab fa-facebook-square"></i>
+										<i class="fab fa-linkedin"></i>
+										<i class="fas fa-envelope"></i>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+
+				<center>
+					<h1 class="content-title">Director & Chiefs</h1>
+				</center>
+
+				<div class="row">
+					<div class="col l10 m10 offset-l1 offset-m1">
+						<div class="row">
+							<div class="col l3 m3 founder">
+								<div class="image-holder-card">
+									<img src="images/working committee/founders/showrin.png" alt="">
+
+									<div class="founder-name">Showrin Barua</div> <br>
+
+									<div class="founder-designation">
+										<span>Chief Technical Officer</span>
+									</div>
+
+									<div class="socials">
+										<i class="fab fa-facebook-square"></i>
+										<i class="fab fa-linkedin"></i>
+										<i class="fas fa-envelope"></i>
+									</div>
+								</div>
+							</div>
+							<div class="col l3 m3 founder">
+								<div class="image-holder-card">
+									<img src="images/working committee/founders/arnab.png" alt="">
+
+									<div class="founder-name">Arnab Rahman</div> <br>
+
+									<div class="founder-designation">
+										<span>Co-Founder</span>
+									</div>
+
+									<div class="socials">
+										<i class="fab fa-facebook-square"></i>
+										<i class="fab fa-linkedin"></i>
+										<i class="fas fa-envelope"></i>
+									</div>
+								</div>
+							</div>
+							<div class="col l3 m3 founder">
+								<div class="image-holder-card">
+									<img src="images/working committee/founders/wasif.png" alt="">
+
+									<div class="founder-name">MD. Wasif Hasan</div> <br>
+
+									<div class="founder-designation">
+										<span>Co-Founder</span>
+									</div>
+
+									<div class="socials">
+										<i class="fab fa-facebook-square"></i>
+										<i class="fab fa-linkedin"></i>
+										<i class="fas fa-envelope"></i>
+									</div>
+								</div>
+							</div>
+							<div class="col l3 m3 founder">
+								<div class="image-holder-card">
+									<img src="images/working committee/founders/wasif.png" alt="">
+
+									<div class="founder-name">MD. Wasif Hasan</div> <br>
+
+									<div class="founder-designation">
+										<span>Co-Founder</span>
+									</div>
+
+									<div class="socials">
+										<i class="fab fa-facebook-square"></i>
+										<i class="fab fa-linkedin"></i>
+										<i class="fas fa-envelope"></i>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+	        </div>
+
+
+	        <div id="upcoming-event-tab" class="col s12">
+	        	<center>
+					<h1 class="content-title">FOUNDERS</h1>
+				</center>
+
+				<div class="row">
+					<div class="col l8 m8 offset-l2 offset-m2">
+						<div class="row">
+							<div class="col l4 m4 founder">
+								<div class="image-holder-card">
+									<img src="images/working committee/founders/fuad.png" alt="">
+
+									<div class="founder-name">Fuad Hassan</div> <br>
+
+									<div class="founder-designation">
+										<span>Co-Founder</span>
+									</div>
+
+									<div class="socials">
+										<i class="fab fa-facebook-square"></i>
+										<i class="fab fa-linkedin"></i>
+										<i class="fas fa-envelope"></i>
+									</div>
+								</div>
+							</div>
+							<div class="col l4 m4 founder">
+								<div class="image-holder-card">
+									<img src="images/working committee/founders/arnab.png" alt="">
+
+									<div class="founder-name">Arnab Rahman</div> <br>
+
+									<div class="founder-designation">
+										<span>Co-Founder</span>
+									</div>
+
+									<div class="socials">
+										<i class="fab fa-facebook-square"></i>
+										<i class="fab fa-linkedin"></i>
+										<i class="fas fa-envelope"></i>
+									</div>
+								</div>
+							</div>
+							<div class="col l4 m4 founder">
+								<div class="image-holder-card">
+									<img src="images/working committee/founders/wasif.png" alt="">
+
+									<div class="founder-name">MD. Wasif Hasan</div> <br>
+
+									<div class="founder-designation">
+										<span>Co-Founder</span>
+									</div>
+
+									<div class="socials">
+										<i class="fab fa-facebook-square"></i>
+										<i class="fab fa-linkedin"></i>
+										<i class="fas fa-envelope"></i>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+	        </div>
+	        <div id="past-event-tab" class="col s12 green">Test 3</div>
+	        <div id="achievement-tab" class="col s12 green">Test 3</div>
+	        <div id="alumni-tab" class="col s12 green">Test 3</div>
+	    </div>
+	</div>
+
+	
+
+
+
 	<center>
 		<h1 class="content-title">FOUNDERS</h1>
 	</center>
 
 	<div class="row">
-		<div class="col l8 m8 offset-l2 offset-m2">
-			<div class="row">
-				<div class="col l4 m4 founder">
-					<div class="image-holder-card">
-						<img src="images/working committee/founders/wasif.png" alt="">
-
-						<div class="founder-name">MD. Wasif Hasan</div> <br>
-
-						<div class="founder-designation">
-							<span>Co-Founder</span>
-						</div>
-
-						<div class="socials">
-							<i class="fab fa-facebook-square"></i>
-							<i class="fab fa-linkedin"></i>
-							<i class="fas fa-envelope"></i>
-						</div>
-					</div>
-				</div>
-				<div class="col l4 m4 founder">
-					<div class="image-holder-card">
-						<img src="images/working committee/founders/wasif.png" alt="">
-
-						<div class="founder-name">MD. Wasif Hasan</div> <br>
-
-						<div class="founder-designation">
-							<span>Co-Founder</span>
-						</div>
-
-						<div class="socials">
-							<i class="fab fa-facebook-square"></i>
-							<i class="fab fa-linkedin"></i>
-							<i class="fas fa-envelope"></i>
-						</div>
-					</div>
-				</div>
-				<div class="col l4 m4 founder">
-					<div class="image-holder-card">
-						<img src="images/working committee/founders/wasif.png" alt="">
-
-						<div class="founder-name">MD. Wasif Hasan</div> <br>
-
-						<div class="founder-designation">
-							<span>Co-Founder</span>
-						</div>
-
-						<div class="socials">
-							<i class="fab fa-facebook-square"></i>
-							<i class="fab fa-linkedin"></i>
-							<i class="fas fa-envelope"></i>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-
-
-	<div class="row">
-		<div class="col l9 m9 no-padding left-margin-for-detail">
+		<div class="col l10 m10">
 			<div class="option-detail">
 
 				<ul class="collapsible">
-					<li>
+					<li class="active">
 						<div class="collapsible-header"><i class="material-icons">filter_drama</i>First</div>
 						<div class="collapsible-body">
 							<div class="row">
@@ -222,26 +394,7 @@
 		</div>
 
 
-		<div class="col l2 m2">
-			<div class="option-card active-option">
-				
-			</div>
-			<div class="option-card">
-				
-			</div>
-			<div class="option-card">
-				
-			</div>
-			<div class="option-card">
-				
-			</div>
-			<div class="option-card">
-				
-			</div>
-			<div class="option-card">
-				
-			</div>
-		</div>
+		
 	</div>
 
 
@@ -289,6 +442,17 @@
 	<script type="text/javascript" src="js/materialize/js/waves.js"></script>
 	<script type="text/javascript" src="js/materialize/js/cards.js"></script>
 	<script type="text/javascript" src="js/materialize/js/collapsible.js"></script>
+	<script type="text/javascript" src="js/materialize/js/tabs.js"></script>
+	<script src="js/materialize/js/carousel.js"></script>
+	<script>
+		$(document).ready(function(){
+    $('.tabs').tabs(
+    	{
+    		swipeable: true,
+    		duration: 150
+    	});
+  });
+	</script>
 
 	<!--  >>>>>>>>>>>>>> Semantic JS files <<<<<<<<<<<<<<<<<  -->
 	<script type="text/javascript" src="js/semantic.js"></script>
